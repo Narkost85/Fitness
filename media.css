@@ -1,0 +1,175 @@
+@media (max-width:960px){
+    
+
+.logo {
+    
+    left: 169px;
+    top: 26px;
+}
+.nav ul{
+    font-size: 16px;
+}
+.but1 {
+    
+    width: 194px;
+}
+.header1 {
+
+    top: 250px;
+}
+    .nkar {
+        width: 279px;
+        top: 166px;
+    }
+    .section5 button {
+        width: 150px;
+    }
+    .section5 .info {
+        display: grid;
+        grid-template-columns: 23% 23% 23% 23%;
+    }
+    .section1 {
+        
+        grid-template-rows: minmax(693px, auto);
+    }
+    .section1 .info3 {
+        
+        top: 1178px;
+        
+        padding-left: 101px;
+    }
+    .section1 table th {
+        
+        font-size: 3vw;
+        padding-right: 152px;
+}
+.section1 .info2 {
+   
+    margin-top: 18px;
+}
+.section1 ul {
+    
+    margin-top: 3px;
+}
+.section4 {
+        height: 70vh;
+}
+.section4 .info {
+    
+    grid-template-rows: minmax(216px, auto);
+}
+.section4 .info3::after {
+    left: 0px;
+}
+.section4 .info2::after {
+    left: 0px;
+}
+.section3 {
+    
+    height: 80vh;
+}
+.section7 span {
+    
+    left: 400px;
+}
+.section7 h1 {
+    
+    left: 339px;
+}
+.section7 .info1 {
+    width: 42%;
+    height: 39vh;
+    top: 223px;
+    left: 53px;
+}
+.section7 p {
+   
+    margin-top: 231px;
+    padding-right: 46px;
+}
+.section7 .info2 {
+    width: 42%;
+    height: 39vh;
+    
+    top: 223px;
+    right: 57px;
+}
+.table {
+   
+    margin-top: 208px;
+}
+.table h1 {
+    
+    right: 484px;
+}
+.section8 .info1 {
+    
+    margin-top: -89px;
+    margin-left: 0px;
+    width: 21%;
+    height: 38vh;
+}
+.section8 .info2 {
+    
+    margin-top: -89px;
+    margin-left: 0px;
+    width: 21%;
+    height: 38vh;
+}
+.section8 .info3 {
+    
+    margin-top: -89px;
+    margin-left: 0px;
+    width: 21%;
+    height: 38vh;
+}
+.section8 .info4 {
+    
+    margin-top: -89px;
+    margin-left: 0px;
+    width: 21%;
+    height: 38vh;
+}
+.section8 .info {
+    
+    height: 26vh;
+}
+.section9 {
+    
+    height: 69vh;
+    
+    margin-top: -31px;
+}
+.section11 {
+    
+    height: 87vh;
+}
+.form {
+    width: 61%;
+}
+.section11 .feet, .inches {
+    width: 232px;
+    margin-bottom: 8px;
+}
+.pound {
+    width: 490px;
+}
+.butt3 {
+    width: 185px;
+}
+.section12 .info {
+    
+    grid-template-columns: 33% 15% 15% 40%;
+}
+.section12 i {
+    
+    margin-left: 38px;
+}
+.section13 {
+    
+    height: 20vh;
+}
+.section13 p{
+    margin-top: 50px;
+}
+}
